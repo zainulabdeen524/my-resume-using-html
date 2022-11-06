@@ -1,0 +1,49 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.details {
+    background-color: rgb(9, 91, 99);
+    color: white;
+
+    padding-left: 5vh;
+    margin: 0px;
+
+
+}
+
+
+
+.emailBlack {
+    color: black;
+}
+
+.linkedinBlack {
+    color: black;
+}
+
+.image_round {
+    border-radius: 50%;
+    height: 36vh;
+    width: 19vw;
+}
+
+.candi_image {
+    background-color: rgb(9, 139, 151);
+   
+}
+
+.carrier_underline {
+    padding-left: 5vw;
+    background-color: firebrick;
+    color: wheat;
+
+}
+
+.carrier {
+    border : 1px solid black;
+    border-collapse: collapse;
+}
